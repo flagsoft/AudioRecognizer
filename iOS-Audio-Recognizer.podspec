@@ -10,4 +10,5 @@ Pod::Spec.new do |s|
     :git => 'https://github.com/WouterDS/iOS-Audio-Recoginzer',
     :tag => s.version.to_s
   }
+  s.source_files = '*.{h,m}'
 end
