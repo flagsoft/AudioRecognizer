@@ -15,4 +15,5 @@ Pod::Spec.new do |s|
   s.requires_arc = true
   s.platform     = :ios, '5.0'
   s.license      = 'MIT (GNU)'
+  s.frameworks = 'CoreAudio'
 end
