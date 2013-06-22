@@ -11,4 +11,5 @@ Pod::Spec.new do |s|
     :tag => s.version.to_s
   }
   s.source_files = '*.{h,m}'
+  s.requires_arc = true
 end
