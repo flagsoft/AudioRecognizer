@@ -1,9 +1,9 @@
 Pod::Spec.new do |s|
-  s.name = "iOS-Audio-Recognizer"
-  s.version = "0.0.1"
+  s.name = "iOS-Audio-Recognizer.podspec"
+  s.version = "iOS-Audio-Recognizer"
   s.summary = "Detects microphone audio levels and triggers an action when the level meets the set threshold."
   s.homepage = "https://github.com/WouterDS/iOS-Audio-Recoginzer.git"
-  s.author = {
+  s.authors = {
   	"picciano" => "unknown@unknown.com",
     "wouterds" => "info@wouterds.be"
   }
