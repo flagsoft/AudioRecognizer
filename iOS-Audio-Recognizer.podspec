@@ -7,10 +7,11 @@ Pod::Spec.new do |s|
   	"picciano" => "unknown@unknown.com"
   }
   s.source = {
-    :git => 'https://github.com/WouterDS/iOS-Audio-Recoginzer',
+    :git => 'https://github.com/WouterDS/iOS-Audio-Recoginzer.git',
     :tag => s.version.to_s
   }
   s.source_files = '*.{h,m}'
   s.requires_arc = true
   s.platform     = :ios, '5.0'
+  s.license      = 'MIT (GNU)'
 end
