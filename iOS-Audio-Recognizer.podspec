@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "iOS-Audio-Recoginzer"
-  s.version = "0.0.1"
+  s.version = "v0.0.1"
   s.summary = "Detects microphone audio levels and triggers an action when the level meets the set threshold."
   homepage = "https://github.com/picciano/iOS-Audio-Recoginzer"
   s.author = {
